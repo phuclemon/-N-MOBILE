@@ -8,8 +8,7 @@
 - Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
 - Trần Đăng Khôi - Đồng tác giả: [GitHub](https://github.com/Trandangkhoihp193)
 - Thới Trần Ngọc Thạch - Đồng tác giả: [GitHub](https://github.com/ngocthach041104)
-- Từ Thiên Gia Bảo  - Đồng tác giả: [GitHub](https://github.com/nhavan248)
-
+- Từ Thiên Gia Bảo  - Đồng tác giả: [GitHub](https://github.com/Tony9029)
 
 ### MÔ TẢ
 - Triển khai ứng dụng về thể thao
