@@ -4,11 +4,11 @@
 
 ### TÁC GIẢ:
 
-- Võ Minh Phúc - Tác giả chính: [GitHub](https://github.com/phuclemon)
-- Nguyễn Thanh Bình - Đồng tác giả: [GitHub](https://github.com/thanhbinhtest)
-- Trần Đăng Khôi - Đồng tác giả: [GitHub](https://github.com/Trandangkhoihp193)
-- Thới Trần Ngọc Thạch - Nhóm trưởng - Đồng tác giả: [GitHub](https://github.com/ngocthach041104)
-- Từ Thiên Gia Bảo  - Đồng tác giả: [GitHub](https://github.com/Tony9029)
+- Võ Minh Phúc - Tác giả: [GitHub](https://github.com/phuclemon)
+- Nguyễn Thanh Bình - Tác giả: [GitHub](https://github.com/thanhbinhtest)
+- Trần Đăng Khôi - Tác giả: [GitHub](https://github.com/Trandangkhoihp193)
+- Thới Trần Ngọc Thạch - Tác giả: [GitHub](https://github.com/ngocthach041104)
+- Từ Thiên Gia Bảo  - Tác giả: [GitHub](https://github.com/Tony9029)
 
 ### MÔ TẢ
 - Triển khai ứng dụng về thể thao
