@@ -1,6 +1,6 @@
 # MÔN LẬP TRÌNH MOBILE (24C1INF50903901)
 
-## Tên dự án: Xây dụng ứng dụng di động tin tức Thể thao nhanh News24h
+## Tên đề tài: Xây dụng ứng dụng di động tin tức Thể thao nhanh News24h
 
 ### TÁC GIẢ:
 
@@ -24,7 +24,7 @@
 
 
 ### Repository gồm có:
-- File code của dự án
+- File code của đề tài
 ### LỜI CẢM ƠN
 Chúng em xin chân thành cảm ơn thầy Đặng Ngọc Hoàng Thành đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
