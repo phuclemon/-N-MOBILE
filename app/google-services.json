@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "578547531622",
+    "firebase_url": "https://newsapp-f97cd-default-rtdb.firebaseio.com",
+    "project_id": "newsapp-f97cd",
+    "storage_bucket": "newsapp-f97cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578547531622:android:b30307582a6b27c56512a7",
+        "android_client_info": {
+          "package_name": "com.example.appnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPvwURxq-_Opjn842VCOFTlTMOgCAi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578547531622:android:d2a97add24563e536512a7",
+        "android_client_info": {
+          "package_name": "com.example.appnew.enity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPvwURxq-_Opjn842VCOFTlTMOgCAi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
