@@ -21,8 +21,6 @@
 - Tích hợp Responsive
 
 
-
-
 ### Repository gồm có:
 - File code của đề tài
 ### LỜI CẢM ƠN
