@@ -12,14 +12,14 @@
 
 ### MÔ TẢ
 - Triển khai ứng dụng về thể thao
+- Xây dựng Đa dạng danh mục về thể thao
 - Phân chia quyền: Người dùng, Quản trị viên cấp 0, Quản trị viên cấp 1
 - Tích hợp RSS từ 24h.com.vn
-- Tích hợp API Thời tiết
-- Tích hợp API Lịch
-- Tích hợp API Tỉ số bóng đá
-- Tích hợp Firebase Realtime Database
-- Tích hợp Responsive
-
+- Tích hợp API Thời tiết nhanh
+- Tích hợp API Lịch nhanh
+- Tích hợp API Tỉ số bóng đá nhanh
+- Tích hợp Responsive xoay màn hình
+- Tích hợp chế độ tối cho ứng dụng
 
 ### Repository gồm có:
 - File code của đề tài
