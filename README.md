@@ -1,4 +1,4 @@
-# MÔN LẬP TRÌNH MOBILE (24C1INF50903901)
+# PHÁT TRIỂN ỨNG DỤNG MOBILE (24C1INF50903901)
 
 ## Tên đề tài: Xây dụng ứng dụng di động tin tức Thể thao nhanh News24h
 
